@@ -27,4 +27,4 @@
 </div>
   
     Buscando sempre expandir meus conhecimentos.
-  
+    👾👾👾
