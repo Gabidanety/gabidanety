@@ -1,4 +1,4 @@
-##  Oii eu sou a Gaby, estudante de desenvolvimento de sistema na ETEC!🌼 
+##  Oii eu sou a Gaby, estudante de desenvolvimento de sistema da ETEC!🌼 
 
 <div align="center">
   <a href="https://github.com/gabidanety">
