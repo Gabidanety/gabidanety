@@ -1,5 +1,6 @@
-##  Oii eu sou a Gaby, estudante de desenvolvimento de sistema da ETEC!🌼 
-
+<div align="center">
+  <h2>Oii eu sou a Gaby, estudante de desenvolvimento de sistema da ETEC!🌼 </h2>
+</div>
 <div align="center">
   <a href="https://github.com/gabidanety">
   <img height="180em"  width="400em" src="https://github-readme-stats.vercel.app/api?username=gabidanety&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
