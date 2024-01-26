@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Oii eu sou a Gaby, estudante de desenvolvimento de sistema da ETEC!🌼 </h2>
+  <h2>Oii! eu sou a Gaby, estudante de Desenvolvimento de Sistema da ETEC!🌼 </h2>
 </div>
 <div align="center">
   <a href="https://github.com/gabidanety">
