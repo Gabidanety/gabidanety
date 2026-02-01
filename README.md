@@ -77,5 +77,8 @@ Oi! Eu sou a Gabrielly, Técnica e Desenvolvimento de Sistemas e estudante de De
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
+<br>
+<div align="center">
+  Acredito que programar é mais do que escrever código: é transformar problemas em soluções reais — e aprender no caminho faz parte da diversão. 
+</div>
 
-Acredito que programar é mais do que escrever código: é transformar problemas em soluções reais — e aprender no caminho faz parte da diversão. 
