@@ -5,7 +5,7 @@
   <tr>
     <!-- Coluna da imagem -->
     <td width="40%" align="center">
-      <img src="assets/banner.png" alt="Imagem sobre mim" width="100%">
+      <img src="iconeLuffy.png" alt="Imagem sobre mim" width="200px"height="100px">
     </td>
 <!-- Coluna do texto -->
     <td width="60%" align="left">
