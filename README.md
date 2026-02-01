@@ -1,29 +1,22 @@
 <div align="center">
   <img src="banner-ghithub.png" alt="Banner Gabrielly Souza"  width="100%"height="500px">
   <br>
-<table align="center">
-  <tr>
-    <!-- Coluna da imagem -->
-    <td width="40%" align="center">
-      <img src="iconeLuffy.png" alt="Imagem sobre mim" width="200px"height="100px">
-    </td>
-<!-- Coluna do texto -->
-    <td width="60%" align="left">
-      <h3 align="center">Sobre mim</h3>
-      <p>
-        Sou desenvolvedora em formação, apaixonada por tecnologia e
-        focada no desenvolvimento de aplicações web e mobile.
-        Tenho experiência com projetos acadêmicos e pessoais,
-        sempre buscando aprender e evoluir.
-      </p>
-    </td>
-  </tr>
-</table>
-
-  
+   <h1>Sobre mim</h1>
 </div>
+<img 
+  src="iconeLuffy.png" 
+  alt="imagem do personagem luffy" 
+  width="300" 
+  height="500" 
+  align="left" 
+  style="margin-right: 30px;"
+>
 
-<br>
+<p>
+Oi! Eu sou a Gabrielly, Técnica e Desenvolvimento de Sistemas e estudante de Desenvolvimento de Software e Multiplataforma na FATEC. Sou movida por curiosidade, tecnologia e pela vontade constante de aprender coisas novas. Ao longo da minha jornada, já trabalhei com React Native, PHP, Laravel, JavaScript, Java, Python, HTML, CSS, MySQL e APIs, sempre buscando escrever código limpo, funcional e com propósito. Tenho uma boa base em lógica, POO e desenvolvimento de sistemas, e adoro ver uma ideia sair do papel e virar solução. Gosto de encarar desafios de frente, explorar novas tecnologias e evoluir um pouco todos os dias.
+</p>
+
+<br clear="left">
 
 <!-- <div align="center">
   <a href="https://github.com/gabidanety">
@@ -32,7 +25,6 @@
   </a>
 </div> -->
 
-<br>
 
 ## 🚀 Tecnologias
 
@@ -80,6 +72,4 @@
 
 <br>
 
-<p align="center">
-  Buscando sempre evoluir, aprender e transformar ideias em soluções. 👾
-</p>
+   Acredito que programar é mais do que escrever código: é transformar problemas em soluções reais — e aprender no caminho faz parte da diversão. 
