@@ -20,10 +20,10 @@ Oi! Eu sou a Gabrielly, Técnica e Desenvolvimento de Sistemas e estudante de De
 
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gabidanety&theme=onedark" width="220px">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gabidanety&theme=onedark" width="220px">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gabidanety&theme=onedark" width="220px">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gabidanety&theme=onedark" width="220px">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gabidanety&theme=onedark" width="200px">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gabidanety&theme=onedark" width="200px">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gabidanety&theme=onedark" width="200px">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gabidanety&theme=onedark" width="200px">
 
 </div>
 <!-- <div align="center">
